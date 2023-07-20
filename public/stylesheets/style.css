@@ -24,5 +24,14 @@ th {
 }
 
 td:nth-child(2), th:nth-child(2) {
-  width: 30px; /* Set the desired width */
+  width: 200px; /* Set the desired width */
 }
+
+td:nth-child(3), th:nth-child(3) {
+  width: 700px; /* Set the desired width */
+}
+
+td:nth-child(4), th:nth-child(4) {
+  width: 800px; /* Set the desired width */
+}
+
