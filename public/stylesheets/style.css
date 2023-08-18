@@ -7,9 +7,17 @@ a {
   color: #00B7FF;
 }
 
+
+
 table {
   border-collapse:collapse;
   width: 50%px;
+}
+
+/* Set the height of the table container to define the visible area */
+.table-container {
+  height: 800px; /* Adjust the height as per your requirement */
+  overflow-y: scroll; /* Enable vertical scrolling */
 }
 
 th, td {
